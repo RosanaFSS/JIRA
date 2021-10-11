@@ -59,5 +59,5 @@ The columns of a board are related to the steps of a **workflow** and when you s
 <br />
 
 
-* July 2021   | Completed Google Data Analytics Professional Certificate ![Certificate](https://github.com/RosanaFSS/Timeline/blob/main/CERTIFICATE_LANDING_PAGE_M474NZHHYG43.jpeg)
+* July 2021   | Completed Google Data Analytics Professional Certificate ![Practice](https://github.com/RosanaFSS/JIRA/blob/main/Practices/JQL%20practice%2011th%20Oct.jpg)
 
