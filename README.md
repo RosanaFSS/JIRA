@@ -3,6 +3,7 @@
 
 ## JIRA is a software used to help manage and deliver projects.
 It is organized around a *hierarchy*.
+
 Atlassian is the company that owns JIRA.
 
 
