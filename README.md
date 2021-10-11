@@ -1,7 +1,8 @@
-# JIRA Software
+# My JIRA journey
 
 
-### JIRA is a software used to help manage and deliver projects.
+
+### JIRA Software is used to help manage and deliver projects.
 <br />
 
 #### If he knew JIRA before he wouldn´t be working like this ...
