@@ -12,6 +12,9 @@ It is organized around a *hierarchy*.
 - one or more **issues**.
 
 
+An **issue** is any work item related to the project. It can represent any work that needs to be done in the project, a single work item.
+
+
 
 
 JIRA is a software used to help manage and deliver projects and is organized around a hierachy.
