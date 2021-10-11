@@ -18,14 +18,14 @@ So ... a JIRA **application** hierarchy contains **projects**, which contains **
 \
 \
 \
-An **issue** is any work item related to the project.\
+An **issue** is any work item related to the project.
 It can represent any work that needs to be done in the project, a single work item.
 \
 \
 \
 \
 \
-It is possible to create 2️⃣ types of projects in JIRA.\
+It is possible to create 2️⃣ types of projects in JIRA.
 - classic and
 - next-gen projects
 \
