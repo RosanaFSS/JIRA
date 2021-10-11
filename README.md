@@ -48,8 +48,15 @@ When selecting _business_ at _template menu_ there are :five: options available
 - Document approval
 <br />
 
+## Visualizing work with _boards_
+#### Transition
+A principle of aile pojects is to visualize work and **a board is n agile tool** used to visualize and manage work. 
+Boards are a view of issues arranged by status and canging the status of an issue is called **transition**.
+<br />
 
-
+##### Workflow
+The columns of a board are related to the steps of a **workflow** and when you select Kanban as a template the default workflow that appears is _backlog_, _selected for development_, _in progress_ and _done_. You can customize it according to the needs of your team and/ or poject.
+<br />
 
 
 * July 2021   | Completed Google Data Analytics Professional Certificate ![Certificate](https://github.com/RosanaFSS/Timeline/blob/main/CERTIFICATE_LANDING_PAGE_M474NZHHYG43.jpeg)
