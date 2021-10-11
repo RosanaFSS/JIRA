@@ -18,7 +18,8 @@ So ... a JIRA **application** hierarchy contains **projects**, which contains **
 \
 \
 \
-An **issue** is any work item related to the project. It can represent any work that needs to be done in the project, a single work item.
+An **issue** is any work item related to the project.\
+It can represent any work that needs to be done in the project, a single work item.
 
 
  
