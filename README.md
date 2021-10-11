@@ -15,7 +15,3 @@
 #### Capstone project, Data Visualization
 ![Share]( https://github.com/RosanaFSS/Timeline/blob/main/first.png )
 
-![Share](https://github.com/RosanaFSS/Timeline/blob/main/second.png)
-
-##### Capstone project, Recommendation
-* I recommend launching a Marketing Campaign to attract Casual Riders in June to our Docked Bikes service on weekends specially on Sundays focusing stations (1) Streeter Sr & Grand Ave, (2) Lake Shore Dr & Monroe St and (3) Millenium Park. In June Casual Riders´ bike usage is high achieving its peak in July.
