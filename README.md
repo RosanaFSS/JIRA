@@ -59,5 +59,6 @@ The columns of a board are related to the steps of a **workflow** and when you s
 <br />
 
 
-JQL ![Practice](https://github.com/RosanaFSS/JIRA/blob/main/Practices/JQL%20practice%2011th%20Oct.jpg)
+JQL, JIRA Query Language
+![Practice](https://github.com/RosanaFSS/JIRA/blob/main/Practices/JQL%20practice%2011th%20Oct.jpg)
 
