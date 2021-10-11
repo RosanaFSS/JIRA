@@ -1,9 +1,13 @@
 # JIRA
-# Diving into the wonderful sea of DATA with R
-## I just love **_R_** coding. &#128525;
-#### Know a little about my journey learning and practicing **_R_** since Aug 2019
 
+
+## JIRA is a software used to help manage and deliver projects.
+It is organized around a hierarchy.
 Atlassian is the company that owns JIRA.
+
+
+JIRA is a software used to help manage and deliver projects and is organized around a hierachy.
+The 
 
 ![Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif)
 
