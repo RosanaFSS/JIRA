@@ -6,6 +6,7 @@
 Atlassian is the company that owns JIRA.
 \
 \
+### Hierarchy
 It is organized around a *hierarchy*.
 
 - The highest level is what we call the **application** level.
@@ -25,19 +26,27 @@ It can represent any work that needs to be done in the project, a single work it
 \
 \
 \
+### Types of projects
 It is possible to create 2️⃣ types of projects in JIRA.
 - classic and
 - next-gen projects
 
 
 
-### Software Project templates
-When selecting _software_ at _template menu_ for ** software projects ** there are 3️⃣ options available 
+### Software project templates
+When selecting _software_ at _template menu_ for there are 3️⃣ options available 
 - Kanban
 - Scrum
 - Bug-tracking
 
-
+### Business project templates
+When selecting _business_ at _template menu_ there are :five: options available 
+- Project management
+- Task tracking
+- Process control
+- Content management
+- Recruitment
+- Document approval
 
 ![Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif)
 
