@@ -2,7 +2,7 @@
 
 
 ## JIRA is a software used to help manage and deliver projects 📈.
-(https://github.com/RosanaFSS/JIRA/blob/main/Practices/Answer%20giphy%20(1).gif)
+![Timeline](https://github.com/RosanaFSS/JIRA/blob/main/Practices/Answer%20giphy%20(1).gif)
 
 Atlassian is the company that owns JIRA.
 
