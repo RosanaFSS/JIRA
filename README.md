@@ -27,7 +27,8 @@ It can represent any work that needs to be done in the project, a single work it
 \
 It is possible to create 2️⃣ types of projects in JIRA.\
 - classic and
-- next-gen projects\
+- next-gen projects
+\
 \
 \
 ### Software Project templates
