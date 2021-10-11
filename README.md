@@ -1,4 +1,4 @@
-# JIRA
+# JIRA Software
 
 
 ## JIRA is a software used to help manage and deliver projects.
