@@ -26,7 +26,7 @@ It can represent any work that needs to be done in the project, a single work it
 It is possible to create 2️⃣ types of projects in JIRA.
 - classic and
 - next-gen projects
-
+<br />
 
 
 #### _Software project_ templates
@@ -34,6 +34,7 @@ When selecting _software_ at _template menu_ for there are 3️⃣ options avail
 - Kanban
 - Scrum
 - Bug-tracking
+<br />
 
 #### _Business project_ templates
 When selecting _business_ at _template menu_ there are :five: options available 
@@ -43,8 +44,9 @@ When selecting _business_ at _template menu_ there are :five: options available
 - Content management
 - Recruitment
 - Document approval
+<br />
 
-![Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif)
+
 
 
 
