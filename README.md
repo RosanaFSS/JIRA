@@ -7,7 +7,9 @@ Atlassian is the company that owns JIRA.
 
 It is organized around a *hierarchy*.
 
-The highest level is what we call the **application** level. The next level is the **project** level which contains one or more **issues**.
+- The highest level is what we call the **application** level.
+- The next level is the **project** level which contains...
+- one or more **issues**.
 
 
 
