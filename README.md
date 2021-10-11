@@ -11,34 +11,27 @@ It is organized around a *hierarchy*.
 - The highest level is what we call the **application** level.
 - The next level is the **project** level which contains...
 - one or more **issues**.
-\
-\
-\
+
 So ... a JIRA **application** hierarchy contains **projects**, which contains **issues**.
-\
-\
-\
+
 An **issue** is any work item related to the project.
 It can represent any work that needs to be done in the project, a single work item.
-\
-\
-\
-\
 
-### Project types
+
+#### Project types
 It is possible to create 2️⃣ types of projects in JIRA.
 - classic and
 - next-gen projects
 
 
 
-### Software project templates
+#### Software project templates
 When selecting _software_ at _template menu_ for there are 3️⃣ options available 
 - Kanban
 - Scrum
 - Bug-tracking
 
-### Business project templates
+#### Business project templates
 When selecting _business_ at _template menu_ there are :five: options available 
 - Project management
 - Task tracking
