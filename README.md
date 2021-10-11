@@ -25,13 +25,13 @@ It is possible to create 2️⃣ types of projects in JIRA.
 
 
 
-#### Software project templates
+#### _Software project_ templates
 When selecting _software_ at _template menu_ for there are 3️⃣ options available 
 - Kanban
 - Scrum
 - Bug-tracking
 
-#### Business project templates
+#### _Business project_ templates
 When selecting _business_ at _template menu_ there are :five: options available 
 - Project management
 - Task tracking
