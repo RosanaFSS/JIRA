@@ -1,7 +1,7 @@
 # JIRA Software
 
 
-## JIRA is a software :happy: used to help manage and deliver projects.
+## JIRA is a software used to help manage and deliver projects 📈.
 
 Atlassian is the company that owns JIRA.
 
@@ -25,7 +25,7 @@ It can represent any work that needs to be done in the project, a single work it
 \
 \
 \
-It is possible to create 2 types of projects in JIRA.\
+It is possible to create 2️⃣ types of projects in JIRA.\
 - classic and
 - next-gen projects\
 \
