@@ -7,7 +7,7 @@
 #### If he knew JIRA before he wouldn´t be working like this ...
 ![Timeline](https://github.com/RosanaFSS/JIRA/blob/main/Practices/Answer%20giphy%20(1).gif) ![Timeline](https://github.com/RosanaFSS/JIRA/blob/main/Practices/Reports%20giphy%20(1).gif)
 #### Atlassian is the company that owns JIRA 
-![Atlassian University](https://www.atlassian.com/university)
+[Atlassian University](https://www.atlassian.com/university)
 <br />
 <br />
 
