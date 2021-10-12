@@ -1,6 +1,6 @@
 # Rosana´s JIRA journey
 
-The purpose of this repository is to share how I have learned about JIRA and the main concepts.
+The purpose of this repository is to share how I have learned about JIRA, register the main concepts I learned and show some of practical cases I developed in JIRA.
 <br />
 Since 2019 I have been engaged in software development commnunities in which I first met JIRA and then begun learning more.
 
