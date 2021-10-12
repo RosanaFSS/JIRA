@@ -8,10 +8,10 @@ Since 2019 I have been engaged in software development commnunities in which I f
 <br />
 
 #### If he knew JIRA before he wouldn´t be working like this ...
-<"https://github.com/RosanaFSS/JIRA/blob/main/Practices/Answer%20giphy%20(1).gif" width="400" height="270">
+<img src="https://github.com/RosanaFSS/JIRA/blob/main/Practices/Answer%20giphy%20(1).gif" width="400" height="270">
 <br />
-<img src="(https://github.com/RosanaFSS/JIRA/blob/main/Practices/Reports%20giphy%20(1).gif" width="400" height="270">
-![](https://github.com/RosanaFSS/JIRA/blob/main/Practices/Answer%20giphy%20(1).gif | width=100) ![Timeline](https://github.com/RosanaFSS/JIRA/blob/main/Practices/Reports%20giphy%20(1).gif)
+<replace ![image](https://your-image-url.type) with img src="(https://github.com/RosanaFSS/JIRA/blob/main/Practices/Reports%20giphy%20(1).gif" width="400" height="270">
+
 #### Atlassian is the company that owns JIRA 
 [Atlassian University](https://www.atlassian.com/university)
 <br />
